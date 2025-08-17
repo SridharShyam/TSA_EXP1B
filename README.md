@@ -128,5 +128,4 @@ OVERALL:
 
 
 ### RESULT:
-Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
-data.
+Thus we have created a Python program to convert non-stationary coffee transaction data into stationary data using regular differencing, log transformation, and seasonal decomposition.
