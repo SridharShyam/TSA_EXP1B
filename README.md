@@ -1,7 +1,6 @@
 # Ex.No: 1(B) CONVERSION OF NON STATIONARY TO STATIONARY DATA
-### Date: 12/08/2025
-### Name: SHYAM S
-### Reg.No: 212223240156
+#### Name: SHYAM S
+#### Reg.No: 212223240156
 
 ## AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
